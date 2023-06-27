@@ -1,3 +1,3 @@
 # PJsekai.link
 
-#Coming soon
+# Coming soon
